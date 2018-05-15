@@ -1,0 +1,18 @@
+[submodule "docker-bcl2fastq2"]
+	path = docker-bcl2fastq2
+	url = https://github.com/rikenbit/docker-bcl2fastq2.git
+[submodule "docker-fastx_toolkit"]
+	path = docker-fastx_toolkit
+	url = https://github.com/rikenbit/docker-fastx_toolkit.git
+[submodule "docker-picard"]
+	path = docker-picard
+	url = https://github.com/rikenbit/docker-picard.git
+[submodule "docker-pyper"]
+	path = docker-pyper
+	url = https://github.com/rikenbit/docker-pyper.git
+[submodule "docker-star2.5.1b"]
+	path = docker-star2.5.1b
+	url = https://github.com/rikenbit/docker-star2.5.1b.git
+[submodule "docker-dropseq"]
+	path = docker-dropseq
+	url = https://github.com/rikenbit/docker-dropseq.git
